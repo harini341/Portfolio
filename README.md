@@ -1,4 +1,4 @@
-# Harini Dev Portfolio
+# Harini  Portfolio
 
 Welcome to my personal portfolio repository! This website showcases my skills, projects, and interests as a passionate Full Stack / Front-End Developer.
 
